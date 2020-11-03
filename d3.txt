@@ -1,0 +1,6 @@
+Afin de traiter cette correspondance n:n entre les mots-clés et les sens, on
+propose généralement de faire deux traitements suivants: 1. considérer des mots (ou
+termes) reliés pour étendre la requête. 2. considérer une désambiguisation des mots
+afin de reconna^tre le sens dénoté. Le premier traitement tente de considérer le
+fait qu'un sens peut être véhiculé par des mots différents. Le deuxiéme traitement
+considére le phénoméne dans le sens opposé.

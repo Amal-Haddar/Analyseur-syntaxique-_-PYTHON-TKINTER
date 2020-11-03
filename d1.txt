@@ -1,0 +1,5 @@
+Les approches classiques de la recherche d'information sont toutes basées sur
+l'utilisation de "mot-clé". Un mot-clé est supposé représenter une partie du
+contenu du document et de la requête. C'est raisonnable, en tenant compte de la
+représentativité des mots-clés pour le contenu et la simplicité de leur
+manipulation.

@@ -1,0 +1,7 @@
+Les opérations de recherche définies dans les modéles de RI pousse la notion de
+mot-clé plus loin, bien que implicitement. Il est implicitement supposé qu'un mot-
+clé est l'unique représentant d'une signification unique. Autrement dit, il est
+supposé qu'il y a une correspondance du type 1:1 entre les mots-clés et les sens.
+C'est évidemment faux. En réalité, un mot peut avoir plusieurs sens, et un sens
+peut être exprimé par des mots différents.
+
